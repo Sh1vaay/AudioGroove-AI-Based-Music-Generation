@@ -1,4 +1,4 @@
-Project Title: AI-Powered Music Creation
+*Project Title: AI-Powered Music Creation*
 
 Abstract
 The field of Generative AI has experienced significant growth in recent years due to advancements in deep learning and artificial intelligence. This project utilizes cutting-edge AI models like LSTM and DCGAN's GAN, as well as different music representations such as MelSpectrograms and Piano Rolls, to transform music composition. The aim is to break free from traditional constraints in music creation, allowing for the rapid and coherent generation of multitrack compositions spanning various genres. The project envisions a future where AI and human creativity collaborate seamlessly, blending technological innovation with artistic expression. Through an intuitive interface, musicians and enthusiasts can interact in real-time with AI-generated music, fostering a harmonious blend of technical skill and creative flair.
